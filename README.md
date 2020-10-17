@@ -1,4 +1,8 @@
-# ICJ Bootstrap Template
+# Hannah's Bootstrap Project 
+
+Due October 17th. My first try with this project, I messed up the gulp dev and lost everything in my docs folder. This is my second try. 
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
